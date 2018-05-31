@@ -35,5 +35,4 @@ public class MyString implements Iterable<Character>{
         return new iter();   //实现Iterabler的接口，返回迭代器
     }
 
-
 }
